@@ -1,2 +1,2 @@
 # Avancada
-School project restaurant system using .NET MVC
+School project restaurant system using ASP.NET MVC
